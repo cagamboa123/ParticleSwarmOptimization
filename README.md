@@ -9,4 +9,4 @@ pso.py target max_inputs max_particles
 
 2. TSP =traveling salesman problem
 
-3. Pattern Search 
+3. Pattern Search - searching for the letters that make up 'bingo'
